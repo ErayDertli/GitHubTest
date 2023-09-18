@@ -1,4 +1,5 @@
 test test
 ikinci satır
-test@gmail.com ile push yapıldı
+test@gmail.com ile push yapıldı.
 
+email ery.drtl@gmail.com ile değiştirildi.
