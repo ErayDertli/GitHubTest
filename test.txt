@@ -1,2 +1,4 @@
 test test
 ikinci satır
+test@gmail.com ile push yapıldı
+
