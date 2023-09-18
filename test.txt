@@ -9,3 +9,5 @@ email ery.drtl@gmail.com ile değiştirildi.
 edertli@argesim.com.tr mail adresine geçildi
 edertli@argesim.com.tr mail adresine geçilme tekrar denendi
 
+User name değiştirilmesine rağmen Atıl Samancıoğlu --> Eray DERTLİ değişikliği yapılmaya çalışılıyor
+
