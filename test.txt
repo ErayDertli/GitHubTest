@@ -7,3 +7,5 @@ email ery.drtl@gmail.com ile değiştirildi.
 "Atıl Samancıoğlu" kullnıcı adı ile "samancioglu.atil@gmail.com" emaili ile commit yapıldı.
 
 edertli@argesim.com.tr mail adresine geçildi
+edertli@argesim.com.tr mail adresine geçilme tekrar denendi
+
